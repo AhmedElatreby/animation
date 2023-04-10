@@ -156,3 +156,4 @@ class HomeStated extends State<Home> with TickerProviderStateMixin {
     );
   }
 }
+
