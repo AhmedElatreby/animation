@@ -5,6 +5,6 @@ class Cat extends StatelessWidget {
 
   @override
   build(context) {
-    return Image.network('https://www.kindpng.com/picc/m/676-6767891_black-cat-head-clipart-hd-png-download.png');
+    return Image.network('https://i.postimg.cc/DzV0jLdp/pngwing-com-1.png');
   }
 }
